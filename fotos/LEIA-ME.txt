@@ -1,0 +1,9 @@
+Coloque aqui as fotos de voces:
+
+  nos-dois.jpg  -> foto principal (destaque)
+  foto1.jpg ... foto4.jpg -> galeria
+
+Para trocar nomes ou legendas, edite a lista FOTOS no inicio do <script> em index.html.
+
+Musica (opcional): coloque um arquivo musica.mp3 na pasta do index.html.
+Sem ele, o botao de musica toca uma caixinha de musica suave gerada pelo navegador.
